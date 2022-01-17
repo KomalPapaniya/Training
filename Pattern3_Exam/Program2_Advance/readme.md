@@ -1,0 +1,25 @@
+# Javascript Pattern Exam
+##### P2 Advance:- Write a program to draw a pattern given below from 0-9 (odd). 
+
+##### Input:
+#
+```sh
+5
+```
+##### Output:
+#
+```sh
+| = = = = = = = = = = = | 
+| \ 4 3 2 1 0 b c d e / | 
+| b \ 3 2 1 0 b c d / 1 | 
+| b c \ 2 1 0 b c / 2 1 | 
+| b c d \ 1 0 b / 3 2 1 | 
+| b c d e \ 0 / 4 3 2 1 | 
+| O O O O O X O O O O O | 
+| 1 2 3 4 / 0 \ e d c b | 
+| 1 2 3 / b 0 1 \ d c b | 
+| 1 2 / c b 0 1 2 \ c b | 
+| 1 / d c b 0 1 2 3 \ b | 
+| / e d c b 0 1 2 3 4 \ | 
+| = = = = = = = = = = = | 
+```

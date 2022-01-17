@@ -1,4 +1,4 @@
-var n = 6;
+var n = 5;
 var str = "";
 
 for(i = -(n+1); i <= n+1; i++)

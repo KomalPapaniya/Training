@@ -36,7 +36,7 @@
 // }
 // console.log(str);
 
-var n = 4;
+var n = 6;
 var str = "";
 
 for(i = -n; i <= n; i++)

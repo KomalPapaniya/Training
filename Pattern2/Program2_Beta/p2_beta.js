@@ -19,7 +19,7 @@ for(i = -n; i <= n; i++)
             str += "@"
         }
         else{
-            str += " "
+            str += "-"
         }
     }
     str += "\n"

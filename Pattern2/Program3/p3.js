@@ -1,4 +1,4 @@
-var n = 6;
+var n = 5;
 var str = "";
 
 
